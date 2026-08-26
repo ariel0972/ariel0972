@@ -1,6 +1,6 @@
-# Bom dia a todos!🦉
-- Atualmente estudando Ciência da Computação - 8º Semestre
-- Trabalhando no Projeto Libry Bot
+# Bom dia a todos!☕
+- Bacharelado em ciência da Computação
+- Desenvolvedor do Libry-Bot
 
 <h2> Atualmente estudando </h2>
 <p align="left"> 
