@@ -12,14 +12,9 @@ React
 
 ## Projetos em destaque
 
-### Home Idiomas
-Sistema de gestão...
-
-### ZTCG
-Backend para TCG...
-
-### Libry Bot
-Integração Discord + Habitica...
+- Home Idiomas
+- ZTCG
+- Libry Bot
 
 ## Contato
 LinkedIn
