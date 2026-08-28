@@ -1,20 +1,20 @@
-# Olá, sou Eduardo Ariel 👋
+# Heelo, I'm Eduardo Ariel 👋
 
-Desenvolvedor Backend Júnior formado em Ciência da Computação,
-com foco em Node.js, TypeScript e NestJS.
+developer Backend Junior graduated in Computer Science,
+focus in Node.js, TypeScript e NestJS.
 
-## Stack principal
+## Principal Stack
 
 Node.js • TypeScript • NestJS • Express
 MongoDB • PostgreSQL
 Git • GitHub
 React
 
-## Projetos em destaque
+## Projects
 
 - Home Idiomas
 - ZTCG
 - Libry Bot
 
-## Contato
+## Contact
 LinkedIn
