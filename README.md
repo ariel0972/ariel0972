@@ -1,6 +1,6 @@
-# Heelo, I'm Eduardo Ariel 👋
+# Hello, I'm Eduardo Ariel 👋
 
-developer Backend Junior graduated in Computer Science,
+Developer Back end Junior graduated in Computer Science,
 focus in Node.js, TypeScript e NestJS.
 
 ## Principal Stack
