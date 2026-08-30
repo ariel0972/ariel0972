@@ -4,14 +4,14 @@ Sou Desenvolvedor Backend Júnior, formado em Ciência da Computação, com foco
 
 Tenho desenvolvido projetos próprios e soluções para problemas reais, trabalhando com autenticação, integrações, bancos de dados e lógica de negócio.
 
-## 🛠️ Stack principal
+## Stack principal
 
 **Backend:** Node.js • TypeScript • NestJS • Express  
 **Banco de dados:** MongoDB • PostgreSQL  
 **Frontend:** React • TypeScript  
 **Ferramentas:** Git • GitHub
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### Gestor da Home Idiomas
 Sistema de gestão desenvolvido para uma escola de idiomas, com controle de usuários, turmas, presença, diário de classe e autenticação.
@@ -35,6 +35,6 @@ Bot para Discord integrado à API do Habitica, com automações, persistência d
 
 - [Repositório](https://github.com/ariel0972/Libry-Bot)
 
-## 📫 Contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/eduardo-ariel)
